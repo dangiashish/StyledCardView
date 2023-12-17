@@ -43,7 +43,7 @@ Add dependency in your `build.gradle` (module-level) file :
 ```groovy
 dependencies {
 
- implementation 'com.github.dangiashish:StyledCardview:1.0.5'
+ implementation 'com.github.dangiashish:StyledCardView:1.0.0'
 
 }
 ```
