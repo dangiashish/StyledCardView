@@ -6,4 +6,28 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <com.github.dangiashish.StyledCardView
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        app:background_Type="fill_stroke"
+        app:cornerRadius="10dp"
+        app:background_Color="@color/white"
+        app:shadow0_Outer_Alpha="0.3"
+        app:shadow0_Outer_Angle="-45"
+        app:shadow0_Outer_Blur="10dp"
+        app:shadow0_Outer_Color="@android:color/holo_green_light"
+        app:shadow0_Outer_Distance="10dp"
+        app:shadow1_Outer_Alpha="0.5"
+        app:shadow1_Outer_Angle="135"
+        app:shadow1_Outer_Blur="10dp"
+        app:shadow1_Outer_Color="@android:color/holo_blue_light"
+        app:shadow1_Outer_Distance="5dp"
+        app:shadow_Outer_Area="40dp"
+        app:stroke_ColorType="gradient_sweep"
+        app:stroke_Gradient_Angle="-45"
+        app:stroke_Gradient_Color0="@android:color/holo_blue_light"
+        app:stroke_Gradient_Color1="@android:color/holo_green_light"
+        app:stroke_Width="1dp" />
+
+
 </LinearLayout>

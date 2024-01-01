@@ -16,7 +16,10 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aa53c8e0-63c7-4965-b325-dc916f50dfa4" name="Changes" comment="Initial commit" />
+    <list default="true" id="aa53c8e0-63c7-4965-b325-dc916f50dfa4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +62,7 @@
     "android-custom-viewE:/Android Studio Projects/StyledCardViewApp/StyledCardView/src/main/java/com/github/dangiashish/StyledCardView.kt_SELECTED": "StyledCardView",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "ashish",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "E:/Android Studio Projects/StyledCardViewApp/StyledCardView/src/main/res/values",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.17",
@@ -230,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1702811786324</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1702812325620</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702812325620</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1702812766042</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702812766042</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
